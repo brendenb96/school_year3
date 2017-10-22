@@ -1,0 +1,7 @@
+The stats on the search of the Hash Table are:
+
+Total reads: 23345
+Longest Chain for a search: 42
+Average reads for a search: 2
+Load Factor is: 71%
+Hash Efficiency: 35.5%

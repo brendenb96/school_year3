@@ -1,0 +1,28 @@
+Breadth-first, In-order:
+Last Name               Student Number | Home Department | Program | Year 
+ Morrison                853453           025               CT        1
+ LaPorte                 840034           004               JA        1
+ Smith                   821239           025               EST       1
+ Black                   849912           034               RST       1
+ Last                    830050           025               CT        1
+ Phillips                841209           025               EST       1
+ White                   836709           034               TXT       1
+ Bannister               830116           025               EST       1
+ Green                   840091           004               RFM       1
+ Newman                  832218           025               CT        2
+ Sykes                   825599           045               WET       2
+ Woods                   838823           025               CT        1
+ Banks                   850045           025               EST       1
+ Card                    842299           004               JA        2
+ Johnston                842291           034               RST       1
+ Walker                  830000           034               TXT       1
+ Appleford               850388           025               EST       1
+ Fisher                  850888           034               TXT       1
+ Hopper                  832218           025               CT        1
+ Jones                   830670           025               CT        2
+ West                    850000           033               ENT       1
+ Doyle                   839900           033               ENT       1
+ Jordan                  839912           033               ENT       1
+ Watson                  840000           033               ENT       2
+ Waters                  849934           034               TXT       1
+ Watts                   850006           034               RST       1

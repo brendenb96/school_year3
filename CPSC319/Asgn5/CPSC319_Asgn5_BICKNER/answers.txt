@@ -1,0 +1,5 @@
+
+1. My hash functions works by XOR ing every character of a string and multiplying it by a very large prime number and summing the entire string
+2. My hash functions works good but it could be improved by using a long instead of an int for more encoding
+3. It works at the same percentage in my tests
+4. My function would work better due to each number creating an individual key and no repeats due to same letters
